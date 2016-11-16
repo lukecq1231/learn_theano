@@ -12,6 +12,7 @@
   
 ## Installing Theano in Anaconda
 Reference: [Installing Theano — Theano 0.8.2 documentation](http://deeplearning.net/software/theano/install.html#mac-os) . Test on Mac OS X 10.12.1
+
 The following steps are in the created _theano_ environment.
 
 1. Install Theano in the environment, type `conda install theano`
