@@ -33,7 +33,7 @@ def main(job_id, params):
                     saveFreq=int(549367/32+1),
                     use_dropout=params['use-dropout'][0],
                     verbose=False,
-                    # embedding='../../data/glove.840B.300d.txt'%os.environ['USER']
+                    # embedding='../../data/glove.840B.300d.txt'
                     )
     return validerr
 
