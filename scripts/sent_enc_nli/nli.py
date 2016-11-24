@@ -1,5 +1,5 @@
 '''
-Build a Distraction-based Neural Models for Document Summarization 
+Build a Neural Model for Natural Language Inference
 '''
 import theano
 import theano.tensor as tensor
