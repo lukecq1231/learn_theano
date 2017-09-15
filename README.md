@@ -1,4 +1,4 @@
-# Theano in Mac OS
+# Install Theano in Mac OS
 
 ## Requirements
 1. Xcode (install from App Store)
